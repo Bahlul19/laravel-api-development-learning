@@ -3,3 +3,5 @@
 Route::apiResource('/class', 'Api\OnlineClassController');
 
 Route::apiResource('/subject', 'Api\SubjectController');
+
+Route::apiResource('/student', 'Api\StudentController');
